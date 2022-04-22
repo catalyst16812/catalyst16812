@@ -4,7 +4,7 @@ Hi 👋 My name is Nikhil Vishwakarma
 C++ & Java Developer
 --------------------
 
-hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a freelancer from India. my passion for technology lies with dreaming up ideas and making them come true. I take care in the experience, and code quality of the things I build. I learned a lot from the community and I love how collaboration and knowledge sharing can happened through open-source.
+hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a freelancer from India. my passion for technology lies with dreaming up ideas and making them come true. I take care in the experience, and code quality of the things I build.<br> I learned a lot from the community and I love how collaboration and knowledge sharing can happened through open-source.
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [catalyst16813@gmail.com](mailto:catalyst16813@gmail.com)
@@ -26,7 +26,7 @@ src="https://img.shields.io/twitter/follow/catalyst16812?logo=twitter&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/catalyst16812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/catalyst16812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/catalyst16812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/catalyst16812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
