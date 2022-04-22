@@ -4,7 +4,7 @@ Hi 👋 My name is Nikhil Vishwakarma
 C++ & Java Developer
 --------------------
 
-hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a freelancer from India. my passion for technology lies with dreaming up ideas and making them come true. I take care in the experience, and code quality of the things I build.<br> I learned a lot from the community and I love how collaboration and knowledge sharing can happened through open-source.
+hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a freelancer from India. my passion for technology lies with dreaming up ideas and making them come true. I take care in the experience, and code quality of the things I build.<br> <br>I learned a lot from the community and I love how collaboration and knowledge sharing can happened through open-source.
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [catalyst16813@gmail.com](mailto:catalyst16813@gmail.com)
