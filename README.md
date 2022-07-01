@@ -31,8 +31,6 @@ src="https://img.shields.io/twitter/follow/catalyst16812?logo=twitter&style=for-
 
 <p align="left"> <a href="https://www.github.com/catalyst16812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/catalyst16812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/catalyst16812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/catalyst16812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="catalyst16812" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/catalyst16812?trk=profile-badge">Nikhil Vishwakarma</a></div>
               
 
 <b>My GitHub Stats</b>
