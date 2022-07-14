@@ -11,6 +11,7 @@ hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a fr
 * 🧠  I'm learning Java
   * 🧠  I've Learned C
   * 🧠  I've Learned C++
+  * 🧠  I've Learned JAVA
   * 🧠  I've Learned HTML
 * ⚡  I like to play chess
 * 🚀  I'm currently working on Data Structures & Algorithm
