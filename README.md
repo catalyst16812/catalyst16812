@@ -9,10 +9,9 @@ hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a fr
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [catalyst16813@gmail.com](mailto:catalyst16813@gmail.com)
 * 🧠  I'm learning Java
-  * 🧠  I've Learned C
-  * 🧠  I've Learned C++
-  * 🧠  I've Learned JAVA
-  * 🧠  I've Learned HTML
+* 🧠  I've Learned C
+* 🧠  I've Learned C++
+* 🧠  I've Learned HTML
 * ⚡  I like to play chess
 * 🚀  I'm currently working on Data Structures & Algorithm
 
