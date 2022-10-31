@@ -4,7 +4,7 @@ Hi 👋 My name is Nikhil Vishwakarma
 C++ Developer and Tech Enthusiast
 --------------------
 # 💫 About Me:
-hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a freelancer from India. my passion for technology lies with dreaming up ideas and making them come true. I take care in the experience, and code quality of the things I build.<br><br>I learned a lot from the community and I love how collaboration and knowledge sharing can happened through open-source.<br><br><h3 align="center">A passionate frontend developer from India</h3>
+hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a freelancer from India. my passion for technology lies with dreaming up ideas and making them come true. I take care in the experience, and code quality of the things I build.<br><br>I learned a lot from the community and I love how collaboration and knowledge sharing can happened through open-source.<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catalyst16812&label=Profile%20views&color=70aeff&style=flat-square" alt="catalyst16812" /> </p>
 
