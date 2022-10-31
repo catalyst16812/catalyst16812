@@ -6,7 +6,7 @@ C++ Developer and Tech Enthusiast
 # 💫 About Me:
 hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a freelancer from India. my passion for technology lies with dreaming up ideas and making them come true. I take care in the experience, and code quality of the things I build.<br><br>I learned a lot from the community and I love how collaboration and knowledge sharing can happened through open-source.<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=catalyst16812&label=Profile%20views&color=70aeff&style=flat-square" alt="catalyst16812" /> </p>
+
 
 - 🔭 I’m currently working on my **Full Stack Development**
 
@@ -23,7 +23,7 @@ hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a fr
 <a href="https://twitter.com/catalyst16812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="catalyst16812" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/catalyst16812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catalyst16812" height="30" width="40" /></a>
 <a href="https://instagram.com/catalyst16812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="catalyst16812" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucz-1zdkfgj6peeajqlcmqrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucz-1zdkfgj6peeajqlcmqrw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucz-1zdkfgj6peeajqlcmqrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucz-1zdkfgj6peeajqlcmqrw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/catalyst16812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="catalyst16812" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/catalyst16812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="catalyst16812" height="30" width="40" /></a>
 <a href="https://discord.gg/rysxRZd4uu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rysxRZd4uu" height="30" width="40" /></a>
@@ -35,3 +35,5 @@ hi, I'm Nikhil Vishwakarma, a passionate self-taught Software developer and a fr
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=catalyst16812&show_icons=true&theme=dark&locale=en&layout=compact" alt="catalyst16812" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catalyst16812&show_icons=true&theme=dark&locale=en" alt="catalyst16812" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=catalyst16812&label=Profile%20views&color=70aeff&style=flat-square" alt="catalyst16812" /> </p>
